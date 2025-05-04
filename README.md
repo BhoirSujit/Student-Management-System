@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/a2ba0392-5918-4b22-b2b4-550ab59115cc)
+
+
+
 CREATE DATABASE school;
 
 CREATE TABLE student (
